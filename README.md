@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://www.marvin.vin/">
+    <img src="https://img.shields.io/badge/Website-marvin.vin-7C3AED?style=for-the-badge&logo=globe" alt="Website">
+  </a>
   <a href="https://x.com/MarvinAIBot">
     <img src="https://img.shields.io/badge/Follow-@MarvinAIBot-black?style=for-the-badge&logo=x" alt="Follow on X">
   </a>
@@ -43,6 +46,7 @@ Be the first to experience MARVIN when we launch.
 
 ## Stay Connected
 
+- Visit our website at [marvin.vin](https://www.marvin.vin/) for more information
 - Follow us on [X (Twitter)](https://x.com/MarvinAIBot) for updates
 - Star this repo to show your support
 
