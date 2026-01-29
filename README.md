@@ -12,6 +12,9 @@
   <a href="https://x.com/MarvinAIBot">
     <img src="https://img.shields.io/badge/Follow-@MarvinAIBot-black?style=for-the-badge&logo=x" alt="Follow on X">
   </a>
+  <a href="https://my.feishu.cn/share/base/form/shrcnLBaYeYRMBhmV2DNYtBdm4b">
+    <img src="https://img.shields.io/badge/Join%20Waitlist-Sign%20Up%20Now-FF6B00?style=for-the-badge" alt="Join Waitlist">
+  </a>
 </p>
 
 
